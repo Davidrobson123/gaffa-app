@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Package Manager
+
+Please use yarn instead of npm.
 
 ## Available Scripts
 
