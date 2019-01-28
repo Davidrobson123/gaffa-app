@@ -2,205 +2,149 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7db52ea-5bb9-43ec-bc6c-ba1eca890e69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/original files/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/.idea/gaffa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/public/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/public/sidebar-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/css/pe-icon-7-stroke.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/default-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/face-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/faces/tim_vector.jpe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/loading-bubbles.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/reactlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/sidebar-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/img/tim_80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_checkbox-radio-switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_sidebar-and-main-panel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_morphing-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_social-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_transparency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/lbd/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/light-bootstrap-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/assets/sass/light-bootstrap-dashboard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/Card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/CustomButton/CustomButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/CustomCheckbox/CustomCheckbox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/CustomRadio/CustomRadio.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/FormInputs/FormInputs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/Header/HeaderLinks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/Sidebar/Sidebar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/StatsCard/StatsCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/Tasks/Tasks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/components/UserCard/UserCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/layouts/Dashboard/Dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/routes/dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/routes/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/variables/Variables.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/Dashboard/Dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/Icons/Icons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/Maps/Maps.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/Notifications/Notifications.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/TableList/TableList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/Typography/Typography.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/Upgrade/Upgrade.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/src/views/UserProfile/UserProfile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original files/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sidebar-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/pe-icon-7-stroke.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/default-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/face-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/faces/tim_vector.jpe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/loading-bubbles.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/reactlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/tim_80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_checkbox-radio-switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_sidebar-and-main-panel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_morphing-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_social-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_transparency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/lbd/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/light-bootstrap-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/light-bootstrap-dashboard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomButton/CustomButton.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomCheckbox/CustomCheckbox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomRadio/CustomRadio.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormInputs/FormInputs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderLinks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/StatsCard/StatsCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tasks/Tasks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserCard/UserCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Dashboard/Dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables/Variables.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/Dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Icons/Icons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Maps/Maps.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Notifications/Notifications.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/TableList/TableList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Typography/Typography.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Upgrade/Upgrade.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/UserProfile/UserProfile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/configBridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/gcp-key.json.enc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/npm-shrinkwrap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/postcss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/upload-preview.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/phantom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/unit/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tests/vendor/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_responsive-embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_navbar-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_transforms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -244,7 +188,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -253,7 +197,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/sass/light-bootstrap-dashboard.scss">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -348,24 +292,6 @@
               <item name="gaffa-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="gaffa-app" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gaffa-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaffa-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gaffa-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaffa-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gaffa-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gaffa-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -421,12 +347,12 @@
       <updated>1548364148989</updated>
       <workItem from="1548364151264" duration="2511000" />
       <workItem from="1548608064492" duration="122000" />
-      <workItem from="1548608438776" duration="3739000" />
+      <workItem from="1548608438776" duration="5161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6372000" />
+    <option name="totallyTimeSpent" value="7794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -505,15 +431,15 @@
     <entry file="file://$PROJECT_DIR$/src/logo.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/sass/light-bootstrap-dashboard.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/sass/light-bootstrap-dashboard.scss">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
